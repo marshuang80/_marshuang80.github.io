@@ -45,7 +45,7 @@ summary: We present RadFusion, a multimodal, benchmark dataset of 1794 patients 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
