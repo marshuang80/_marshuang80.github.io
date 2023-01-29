@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: cyberpunk
+  font_size: XL
 
 # SEO
 
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/marshuang80/marshuang80.github.io'
     content_dir: content
     branch: main
   avatar:
